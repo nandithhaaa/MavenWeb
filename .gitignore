@@ -1,4 +1,4 @@
-!target/*.war
+!target/MavenWeb.war
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
